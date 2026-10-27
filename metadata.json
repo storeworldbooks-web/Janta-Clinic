@@ -1,0 +1,8 @@
+{
+  "name": "Janta Dental Clinic Management System",
+  "description": "Premium multi-branch dental clinic management admin panel inspired by Growth Machine Studio. Complete patient EMR, interactive dental odontogram, appointment calendar, billing, prescriptions, and WhatsApp reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
